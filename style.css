@@ -1,0 +1,9 @@
+.navbar-brand img{
+    border-radius: 25px;
+}
+.nav-link{
+    color: white !important;
+}
+.carousel-item img{
+    height: 400px;
+}
